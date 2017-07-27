@@ -1,0 +1,38 @@
+{
+ "address": "1MeDiaMw8YrnwVBxgbEq2zAG7M8LdWUm97",
+ "description": "Open-source entertainment central.",
+ "domain": "youmedia.bit",
+ "background":"D32F2F",
+ "files": {
+  "CONTRIBUTING": {
+   "sha512": "593e1dcf3ead0bfe6e507d4e760be178c4f2a57ff7461dcb4bd9a374d5246ed8",
+   "size": 441
+  },
+  "LICENSE": {
+   "sha512": "602175b7250c63c16b2aaa2f389b8d0c466bd3d7c7d9fab2c3ee3bdd011c5b03",
+   "size": 1233
+  },
+  "WAIVER": {
+   "sha512": "7ff964998a3b5ffe9511d3cad1abf3dc4af65347d2c067918c003aae83844eff",
+   "size": 880
+  },
+  "index.html": {
+   "sha512": "80011fb18b525686eea9c803c5792af11292d6f4a3fb5be4a65069f82375a13e",
+   "size": 1498
+  },
+  "register.txt": {
+   "sha512": "9fabe1253c49707255483678152116e13428e6ff98d5936cd5e9287ab0995f9d",
+   "size": 408
+  }
+ },
+ "ignore": "(^notes|^.git)",
+ "inner_path": "content.json",
+ "modified": 1501120231,
+ "signers_sign": "Gyqcnkr2uQKNMf6UIaitoU/xhNs88goTA66bHh2s8nopXHHT//hr3XtHXOL48ar3T6g4qZct5wfUdy/6feGudr0=",
+ "signs": {
+  "1MeDiaMw8YrnwVBxgbEq2zAG7M8LdWUm97": "HBDEOt5hNVcluF+CAIpEDllt5FLipYUQNaeyKeIMES2UQAcZ54uiKQxzVkavbq2wd75R6/LOavWcRZ8A0D//Dh4="
+ },
+ "signs_required": 1,
+ "title": "YouMedia",
+ "zeronet_version": "0.5.7"
+}
