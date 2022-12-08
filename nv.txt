@@ -1,0 +1,106 @@
+nv:
+- individual channels (fn with vds not only from own but also other channels, and organize the order of which category is displayed - privilege shows, series and interviews, and add tags to help categorize at user profile/desire - likes will also define what will be shown)
+- megachannels through .eth name
+
+- JSON file containing 
+nv Channel One
+mon-fri
+- 00:00 _
+- 01:00 _
+- 02:00 _
+- 03:00 _
+- 04:00 _
+- 05:00 _
+- 06:00 _
+- 07:00 _
+- 08:00 e-sporte
+- 09:00 ln
+- 10:00 fn lvs, crts ntts
+- 11:00 hr, Camaleao, Gengar, Estação HD
+- 12:00 music time
+- 13:00 trt nws
+- 14:00 Decorando e Reciclando
+- 15:00 
+- 16:00 
+- 17:00 
+- 18:00 fn
+- 19:00 fmln
+- 20:00 nstlg
+- 21:00
+- 22:00 
+- 23:00 
+sat
+- 00:00 _
+- 01:00 Jl Cl
+- 02:00 Arn
+- 03:00 _
+- 04:00 _
+- 05:00 _
+- 06:00 _
+- 07:00 _
+- 08:00 e-sporte
+- 09:00 ln
+- 10:00 fn lvs, crts ntts, Fram Alves_unhas
+- 11:00 khbn lm, PrtFnds, Prfnlh
+- 12:00 music time
+- 13:00 trt nws
+- 14:00 Decorando e Reciclando
+- 15:00 Me poupe, Nth Fncs
+
+- 17:00 zln
+- 18:00 fn
+- 19:00 tmbfn, atlkw, fmln
+
+- 21:00 hr (not anime but nerd), sclh sgr, spr fts, cdn, cllbt
+- 22:00 whndrns
+- 23:00 nfs
+sun
+- 00:00 _
+- 01:00 _ (space for moving hr, spr fts, cdn)
+- 02:00 _
+- 03:00 _
+- 04:00 _
+- 05:00 _
+- 06:00 _
+- 07:00 _
+- 08:00 e-sporte
+- 10:00 hr, cllbt
+- 11:00 sc
+- 11:20 crnt g
+- 11:40 k
+- 12:00 fmln
+- 13:00 FLS, fn lvs
+- 14:00 music time
+
+- 18:00 trt nws, Bstdrs fmln
+- 20:00 Fivetastic (mnl d mnd, cdn, vcs, nstlg, Atl)
+
+- Editor app, calc the time of videos and forms JSON of broadcast schedule (until minutes completes a hour (support for seconds/shorts vids), hours complete a day, and days complete a week schedule - schedules inside schedules)
+
+- Content curators earn nv tkns
+
+USV
+
+guide how to censor f words (slice vid, separate audio, put beep)
+
+NvlDAO, rltshws
+
+nv Prt Rdio
+- CH 4K
+- SBT
+- Content curators earn Prt Rdio tkns
+
+- support traditional TV channels using adapter (separate of indie channels/megachannels or mixed) or their YT channels
+
+- TV or Power modes
+
+- make a personal channel with nested sub-channels (support to USV)
+- login and sync with DTube, but leverage own ETH contract for meta posting (JSON) and optionally post media into ppt (dedup same video and display in which networks it are - leverage Omni and CmnBytes)
+-
+- "Make a Megachannel" assistant (own app for Argn leveraging ENS or Pnd)
+-
+- identify short vids (support 16:9 videos then ask to change phone orientation)
+- continuous mode (for short vids)
+- fns can transform 16:9 videos into short 9:16 videos (as they'll d for fandubbing)
+-
+before opening an video, read its headline and screenshots (as if videos were apps at a store listing - thats why an game dont have to start retaining attention on first seconds)
